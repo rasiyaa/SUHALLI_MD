@@ -29,7 +29,7 @@
 
   <p align="center"> Meet SUHALLI_MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/efeurhobopatricia/SUHALLI_MD/fork"><img title="SUHALLI_MD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/efeurhobopatricia/SUHALLI_MD/fork"><img title="SUHALLI_MD" src="https://img.shields.io/badge/FORK-SUHALLI_MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
