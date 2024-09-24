@@ -53,7 +53,7 @@
 ## CONTACT Only_one_🥇Empire HERE
   CONTACT ME FOR ANY ISSUE
 
-   <a href="https://wa.me/2348078582627"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
+   <a href="t.me/only_one_empire_bot "><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
