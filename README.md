@@ -1,4 +1,5 @@
 # SUHALLI_MD
+# Star ⭐ repo if you like this bot.
 <p align="center">
 <a href="https://github.com/efeurhobopatricia"><img title="Author" src="https://telegra.ph/file/75fab4da4ca60e4a651d0.jpg?style=for-the-badge&logo=github"></a>
 
