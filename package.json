@@ -10,8 +10,8 @@
             "suhail": "pm2 start . --deep-monitoring --attach --name SUHALLI_MD",
             "start": "pm2 start . --attach --name SUHALLI_MD",
             "stop": "pm2 stop SUHALLI_MD",
-            "old-heroku-postbuild": "https://github.com/efeurhobopatricia/SUHALLI_MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-            "fis-heroku-postbuild": "https://github.com/efeurhobopatricia/SUHALLI_MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+            "old-heroku-postbuild": "https://github.com/SuhailTechInfo/Suhail-Md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+            "fis-heroku-postbuild": "https://github.com/SuhailTechInfo/Suhail-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "dbs--postinstall": "npx puppeteer@latest install --y"
    },
    "author": "ᴏɴʟʏ_ᴏɴᴇ_🥇ᴇᴍᴘɪʀᴇ",
