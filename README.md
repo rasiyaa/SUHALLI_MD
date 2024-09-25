@@ -42,7 +42,7 @@
 4.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobopatricia/SUHALLI_MD/fork)***
    
 5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://suhail-web.vercel.app/deploy?platform=replit)***  
+6.  ***Deploy on [`Replit`](https://replit.com/@efeurhobopatric/SUHALLIMD)***  
 7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
 8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
 9.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
