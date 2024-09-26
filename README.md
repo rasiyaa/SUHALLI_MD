@@ -42,7 +42,7 @@
 4.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobopatricia/SUHALLI_MD/fork)***
    
 5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://replit.com/@efeurhobopatric/SUHALLIMD)***  
+6.  ***Deploy on [`Replit`](https://replit.com/github/efeurhobopatricia/SUHALLI_MD)***  
 7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
 8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
 9.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
@@ -53,7 +53,7 @@
 ## CONTACT Only_one_🥇Empire HERE
   CONTACT ME FOR ANY ISSUE
 
-   <a href="https://t.me/only_one_empire_bot"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
+   <a href="https://onlyoneempire.vercel.app/"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="240" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
